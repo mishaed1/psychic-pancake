@@ -39,7 +39,7 @@ for 'no'.
 
 ## Installation
 
-1. Clone the repository or download the source code files. git clone https://github.com/yourusername/magic-8-ball.git
+1. Clone the repository or download the source code files. git clone https://github.com/mishaed1/psychic-pancake.git
 2. Install the required dependencies by running `pip install pyttsx3` in your terminal.
 3. Run the `project.py` file using a Python interpreter. `cd project.py`
 
