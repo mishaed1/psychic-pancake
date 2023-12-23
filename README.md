@@ -1,8 +1,8 @@
 # psychic-pancake
 ###### magic_208_ball by Mikhail (@mishaed)
 
-# Project Title
-### Talking Magic 208-Ball toy
+#### Project Title
+# Talking Magic 208-Ball toy
 
 #### video URL: https://youtu.be/VlA_opYF4o8
 #### GitHub URL: https://github.com/mishaed1
