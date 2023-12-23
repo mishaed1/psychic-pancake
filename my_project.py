@@ -25,8 +25,8 @@ def welcome_message():
     print()
     print("*" * 70)
     try:
-        print("\nWelcome to the Magic 8-Ball program!")
-        speak("Welcome to the Magic 8-Ball program!")
+        print("\nWelcome to the Magic 208-Ball program!")
+        speak("Welcome to the Magic 208-Ball program!")
     except OSError as e:
         print(f"Error initializing text-to-speech engine: {e}\n\nTHE GAME WILL CONTINUE WITHOUT THE SOUND.\n")
         print("=" * 70)
@@ -64,7 +64,7 @@ def ask_question():
     if prompt == "q" or prompt == "Q":
         print(f"\nOk, Good-by than!")
         speak(f"Ok. Good-by than!\n")
-        print("\nTHANK YOU FOR USING THE MAGICAL 8-BALL PROGRAM!\n")
+        print("\nTHANK YOU FOR USING THE MAGICAL 208-BALL PROGRAM!\n")
         print("*" * 70)
         sys.exit()
 
@@ -98,7 +98,7 @@ def speak_answer(answer, user_name):
         prompt2 = input("\n... Do you have another question? Typ Y/y for (yes) or N/n for (no).\n> ")
         if prompt2 == "n" or prompt2 == "N":
             print(f"\nOk. Good-by than!")
-            print("\nTHANK YOU FOR USING THE MAGICAL 8-BALL PROGRAM!\n")
+            print("\nTHANK YOU FOR USING THE MAGICAL 208-BALL PROGRAM!\n")
             print("*" * 70)
             speak(f"Ok. Good-by than. and thank you! for using the Magic 8-Ball program.")
             sys.exit()
