@@ -54,3 +54,4 @@ feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 Thank you for using the Magic 8-Ball Python program! May your questions be answered wisely.
+
