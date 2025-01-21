@@ -1,4 +1,3 @@
-#### psychic-pancake
 ###### magic_208_ball by Mikhail (@mishaed)
 
 #### Project Title
